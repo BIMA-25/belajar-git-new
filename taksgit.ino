@@ -3,3 +3,6 @@ void fitur(){
    // buat fitur 2 
     // tambah fitur 3
 }
+void tambah(){
+    
+}
